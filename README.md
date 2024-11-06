@@ -77,4 +77,3 @@ Based on the accuracy and F1-score, [Best-performing Model] is recommended for m
 
 ---
 
-This report structure should provide a comprehensive overview of your project. Run the code to get specific values, and then update the placeholders marked as *value* in the Results Summary. Let me know if you need further assistance with the calculations or analysis!
